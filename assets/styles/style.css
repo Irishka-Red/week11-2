@@ -1,0 +1,33 @@
+body{
+background-color: darkgrey;
+}
+main{
+width: 90%;
+max-width: 1400px;
+padding-left: 15px;
+padding-right: 15px;
+margin: 0 auto;
+}
+h1{
+display: block;
+text-align: center;
+}
+.button{
+background-color: green;
+color: white;
+border-radius: 15px;
+}
+.list{
+display: block;
+text-align: center;   
+}
+.ul{
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+}
+.checked{
+color: brown;
+text-decoration: line-through;     
+}
